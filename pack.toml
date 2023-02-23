@@ -1,0 +1,13 @@
+name = "Performance Mods"
+author = "ryleu"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3740a646599ceb915c830a475d27fb925b41af156bb0ae6334d784082c0ff924"
+
+[versions]
+minecraft = "1.19.3"
+quilt = "0.17.11"
